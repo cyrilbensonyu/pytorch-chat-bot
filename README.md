@@ -282,4 +282,4 @@ Note: this project is unrelated to [hughperkins/pytorch](https://github.com/hugh
 PyTorch is BSD-style licensed, as found in the LICENSE file.
 
 
-<code>$ tpytorch chat_bot</code>
+<code>$ pytorch chat_bot</code>
